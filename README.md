@@ -4,6 +4,5 @@ To run our App, please open Rstudio and run following commends:
 
 '''
 library(shiny)
-
 runGitHub("BookRecomApp", "JulietZ425")
 '''
