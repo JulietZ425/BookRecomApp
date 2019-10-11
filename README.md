@@ -11,3 +11,4 @@ We based our work on [Book Recommender](https://www.kaggle.com/philippsp/book-re
 
 ## Reference
 [Book Recommender](https://github.com/pspachtholz/BookRecommender) is a developed shiny app to explore users' preference with their rating behavior, which is now availlable on github
+Our data comes from Kaggle's data source [goodbooks](https://www.kaggle.com/zygmunt/goodbooks-10k)
