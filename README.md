@@ -11,7 +11,7 @@ We based our work on [Book Recommender](https://www.kaggle.com/philippsp/book-re
 ## Our Slides
 
 ## Our Presentation
-* [Team: Boiler Google R: Book Recommendation System](https://purdue0-my.sharepoint.com/:p:/g/personal/zhan2381_purdue_edu/EWZXT4SPLIpIuyk2WiyBCFgBWnqvEx6Aq_Zo3OHFbA72OQ?e=n1nLOC)
+* [Team: Boiler Google R: Book Recommendation System]()
 ## Data
 * Our data comes from Kaggle's data source [goodbooks](https://www.kaggle.com/zygmunt/goodbooks-10k)
 ## Reference
